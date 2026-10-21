@@ -4,7 +4,7 @@ Adaptive manipulator developed for my bachelor's thesis, with firmware for contr
 
 ## Thesis
 
-[Read the bachelor's thesis by Florian Geissler (PDF)](docs/FlorianGeissler_BachelorThesis.pdf).
+[Read the bachelor's thesis (PDF)](docs/FlorianGeissler_BachelorThesis.pdf).
 
 ## Manipulator
 
