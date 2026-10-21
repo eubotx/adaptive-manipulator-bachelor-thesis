@@ -2,6 +2,10 @@
 
 Adaptive manipulator developed for my bachelor's thesis, with firmware for control, calibration, and testbench measurements.
 
+## Thesis
+
+[Read the bachelor's thesis by Florian Geissler (PDF)](docs/FlorianGeissler_BachelorThesis.pdf).
+
 ## Manipulator
 
 | Top view | Bottom view |
